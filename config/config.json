@@ -1,0 +1,8 @@
+{
+    "showDebugMonitorWindow": true,
+    "customTriggerKbdDelay": 0,
+    "customTriggerPadDelay": 0,
+    "range": 1000,
+    "spin": false,
+    "useDefaultActionKey": false
+}
